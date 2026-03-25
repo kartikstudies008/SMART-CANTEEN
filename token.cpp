@@ -19,5 +19,5 @@ Token createToken(int tokenNumber) {
     cout << "Is VIP? (1 for Yes, 0 for No): ";
     cin >> t.isVIP;
 
-    return t;
+    return t ;
 }
